@@ -38,8 +38,15 @@
 
 ## Templates & Examples
 
-- [Azure-Samples/functions-dotnet-rest-api](https://github.com/Azure-Samples/functions-dotnet-rest-api)
-- [brminnick/AzureFunctionsBestPractices](https://github.com/brminnick/AzureFunctionsBestPractices)
-- [DavidParks8/Azure-Functions-Best-Practices](https://github.com/DavidParks8/Azure-Functions-Best-Practices)
+- [Azure-Samples/azure-functions-samples](https://github.com/Azure-Samples/azure-functions-samples)
+- [Azure/azure-functions-dotnet-worker (samples folder)](https://github.com/Azure/azure-functions-dotnet-worker/tree/main/samples)
+- [MicrosoftDocs/azure-docs - Azure Functions Samples](https://github.com/MicrosoftDocs/azure-docs/tree/main/articles/azure-functions/samples)
+
+## Tutorials
+
+- [Create a serverless API with Azure Functions](https://learn.microsoft.com/azure/azure-functions/functions-create-serverless-api)
+- [Azure Functions HTTP trigger tutorial](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=csharp)
+
+> **Note:** The previously listed `functions-dotnet-rest-api` sample does not exist (404). The above resources are maintained and provide up-to-date Azure Functions patterns for .NET.
 
 ---
